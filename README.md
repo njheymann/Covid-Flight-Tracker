@@ -93,7 +93,7 @@ https://njheymann.github.io/Covid-Flight-Tracker/
 https://msadio8.github.io/Project-1---COVID-Flight-Tracker/
 Slideshow document: https://docs.google.com/presentation/d/1ZmuMUNBJ-UGtnpmciAnG-9LleW7KSot3D2RSVgc-o1c/edit?pli=1#slide=id.gc6f80d1ff_0_27
 Github repos:
-Meriam - _insert repo_
+Meriam - https://github.com/msadio8?tab=repositories
 Thiago Dantas - https://github.com/Dantas11/COVID-Flight-Tracker      
 Ying Jie Puk - _insert repo_
 Nils Heymann - https://github.com/njheymann/Covid-Flight-Tracker
