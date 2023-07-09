@@ -1,0 +1,77 @@
+body,
+html {
+  height: 100%;
+  background-image: url("../images/ross-parmly-rf6ywHVkrlY-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+main h1 {
+  font-size: 30px;
+  text-align: center;
+}
+
+/* main h1 {
+  font-size: 50px;
+  text-align: center;
+  color: #fff;
+} */
+
+.saved-flights {
+  display: flex;
+  flex-direction: column;
+  padding: 50px 50px 50px 50px;
+  height: 850px;
+  width: 80%;
+  margin: 50px;
+  box-shadow: rgba(14, 30, 37, 0.12) 0 2px 4px 0,
+    rgba(14, 30, 37, 0.32) 0 2px 16px 0;
+  border-radius: 5px;
+}
+
+.saved-flights li {
+  background-color: #fff;
+  opacity: 70%;
+  line-height: 30px;
+  white-space: pre-wrap;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+}
+
+.saved-flights li:hover {
+  color: #fff;
+  background: #b2b5b7;
+  opacity: 70%;
+  cursor: pointer;
+}
+
+#backButton,
+#clear {
+  margin: 5px 5px 5px 0;
+  width: 300px;
+}
+
+#backButton:hover,
+#clear:hover {
+  color: #fff;
+  background-color: #031926;
+}
+
+.flights-buttons {
+  display: flex;
+  flex-direction: row;
+}
+
+#saved-flights-list {
+  overflow-y: auto;
+}
+
+#saved-flights-list::-webkit-scrollbar {
+  width: 0;
+  background: 0 0;
+}
